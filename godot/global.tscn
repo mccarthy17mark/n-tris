@@ -1,0 +1,10 @@
+[gd_scene load_steps=2 format=3 uid="uid://cl3dxf2skb2mx"]
+
+[sub_resource type="GDScript" id="GDScript_emdy5"]
+script/source = "extends Node
+
+var N = 0
+"
+
+[node name="Node" type="Node"]
+script = SubResource("GDScript_emdy5")
