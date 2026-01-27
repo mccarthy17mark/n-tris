@@ -6,10 +6,10 @@
 script = ExtResource("1_y0pyv")
 
 [node name="ColorRect" type="ColorRect" parent="."]
-offset_left = 376.0
-offset_top = 46.0
-offset_right = 907.0
-offset_bottom = 609.0
+offset_left = 478.0
+offset_top = 17.0
+offset_right = 778.0
+offset_bottom = 617.0
 color = Color(0.854902, 0.854902, 0.854902, 1)
 
 [node name="N_tris_label" type="Label" parent="."]
